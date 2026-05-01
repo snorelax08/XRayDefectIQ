@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+*.pt
+*.pth
+*.onnx
+*.db
+*.sqlite3
+.DS_Storegit add .
+git commit -m "Initial commit"
