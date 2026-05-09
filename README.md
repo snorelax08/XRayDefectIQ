@@ -294,6 +294,6 @@ XRayDefectIQ is built to fix all three. Fast inference over any X-ray image. Con
 
 <div align="center">
 
-Built by **Sanskar Shimpi**
+Built by **Atharwa Vatsyayan**
 
 </div>
